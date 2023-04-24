@@ -4,7 +4,9 @@ Dieses Repository beinhaltet alle Themen, die in Softwaretechnik behandelt werde
 ### In jedem Unterordner sind Beispiele und die dazugehörige Aufgabe zu finden!
 
 ## Singleton
-
+Das Singleton Pattern wird in realen Programmen zum Beispiel bei JPA, also einer API zum Verwalten einer Datenbank genutzt. Es stellt sicher, dass die Verbindung zur Datenbank genau einmal besteht und die Datenbank nicht von verschiedenen Instanzen aus gesteuert wird.  
+  
+Als trivialstes Pattern benötigt es auch nur eine Klasse (siehe Package).
 
 ## Simple Factory
 ![simpleFactory](https://user-images.githubusercontent.com/80221159/234125065-b20fece8-0c2d-4bf8-a3dd-a3e36666420d.png)
