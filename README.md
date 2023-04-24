@@ -3,7 +3,7 @@ Dieses Repository beinhaltet alle Themen, die in Softwaretechnik behandelt werde
 
 >Erfordert Java 17
 
-Oder Ihr ändert die `pom.xml` folgendermaßen ab:
+#### Oder Ihr ändert die `pom.xml` folgendermaßen ab:
 ```xml
 <properties>
     <maven.compiler.source>11</maven.compiler.source>
