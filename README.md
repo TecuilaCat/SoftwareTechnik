@@ -3,7 +3,7 @@ Dieses Repository beinhaltet alle Themen, die in Softwaretechnik behandelt werde
 
 >Erfordert Java 17
 
-#### Oder Ihr ändert die `pom.xml` folgendermaßen ab:
+#### Oder Ihr ändert die `pom.xml` folgendermaßen ab und aktualisiert dann Maven:
 ```xml
 <properties>
     <maven.compiler.source>11</maven.compiler.source>
@@ -11,6 +11,7 @@ Dieses Repository beinhaltet alle Themen, die in Softwaretechnik behandelt werde
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 </properties>
 ```
+>Reload all Maven Projects
 #### Dann müsst ihr aber die ein oder andere Änderung im Code vornehmen
 
 ### In jedem Unterordner sind Beispiele und die dazugehörige Aufgabe zu finden!
