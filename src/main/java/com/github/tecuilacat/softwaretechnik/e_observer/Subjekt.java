@@ -1,4 +1,4 @@
-package com.github.tecuilacat.softwaretechnik.observer;
+package com.github.tecuilacat.softwaretechnik.e_observer;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.github.tecuilacat.softwaretechnik.observer;
+package com.github.tecuilacat.softwaretechnik.e_observer;
 
 public interface Observer {
 

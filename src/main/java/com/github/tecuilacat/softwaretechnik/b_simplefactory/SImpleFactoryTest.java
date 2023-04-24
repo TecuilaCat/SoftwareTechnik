@@ -1,4 +1,4 @@
-package com.github.tecuilacat.softwaretechnik.simplefactory;
+package com.github.tecuilacat.softwaretechnik.b_simplefactory;
 
 public class SImpleFactoryTest {
 

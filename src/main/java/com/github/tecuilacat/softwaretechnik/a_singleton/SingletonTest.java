@@ -1,4 +1,4 @@
-package com.github.tecuilacat.softwaretechnik.singleton;
+package com.github.tecuilacat.softwaretechnik.a_singleton;
 
 public class SingletonTest {
 
