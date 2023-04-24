@@ -1,5 +1,5 @@
 ## Beispiel Aufgabe
-Implentieren Sie ein Programm (mit Singleton-Pattern), dass eine Klasse hat, von der es genau ein Objekt geben soll. Dieses soll LAZY initialisiert werden.  
+Implentieren Sie ein Programm (mit Singleton-Pattern), das eine Klasse hat, von der es genau ein Objekt geben soll. Dieses soll LAZY initialisiert werden.  
   
 In dieser Klasse gibt es einen Zustand, der erhöht und verkleinert werden kann.  
   
