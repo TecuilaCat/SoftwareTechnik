@@ -1,6 +1,17 @@
 # Software-Technik (ADV)
 Dieses Repository beinhaltet alle Themen, die in Softwaretechnik behandelt werden
 
+>Erfordert Java 17
+
+Oder Ihr ändert in der `pom.xml` folgendermaßen ab:
+```xml
+<properties>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+</properties>
+```
+
 ### In jedem Unterordner sind Beispiele und die dazugehörige Aufgabe zu finden!
 
 ## Singleton
