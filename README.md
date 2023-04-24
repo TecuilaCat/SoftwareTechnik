@@ -11,6 +11,7 @@ Dieses Repository beinhaltet alle Themen, die in Softwaretechnik behandelt werde
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 </properties>
 ```
+#### Dann müsst ihr aber die ein oder andere Änderung im Code vornehmen
 
 ### In jedem Unterordner sind Beispiele und die dazugehörige Aufgabe zu finden!
 
