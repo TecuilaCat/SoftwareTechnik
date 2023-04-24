@@ -2,11 +2,13 @@ package com.github.tecuilacat.softwaretechnik.observer;
 
 public class KonkretesSubjekt extends Subjekt {
 
+    private String name;
     private int zustand;
 
-    public KonkretesSubjekt() {
+    public KonkretesSubjekt(String name) {
         super();
         this.zustand = 0;
+        this.name = name;
     }
 
     public void setZustand(int zustand) {
@@ -17,4 +19,9 @@ public class KonkretesSubjekt extends Subjekt {
     public int getZustand() {
         return zustand;
     }
+
+    public String getName() {
+        return name;
+    }
+
 }

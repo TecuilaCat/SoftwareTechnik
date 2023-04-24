@@ -1,6 +1,8 @@
 # Software-Technik (ADV)
 Dieses Repository beinhaltet alle Themen, die in Softwaretechnik behandelt werden
 
+### In jedem Unterordner sind Beispiele und die dazugehörige Aufgabe zu finden!
+
 ## Singleton
 
 
@@ -20,5 +22,7 @@ Man verfolgt Änderungen an einem Objekt und fängt diese Trigger in einer Obser
 ### Was bringt mir das Pattern?
 - Umsetzung von Publish
 - Umsetzung von Subscribe
+
+Sowohl mehrere Subjekte zu einem Observer als auch mehrere Observer zu einem Subjekt lassen sich umsetzen - je nach Use-Case.
 
 ![observer](https://user-images.githubusercontent.com/80221159/234124124-6912c699-3e25-4722-b3c7-51933058e1f9.png)
