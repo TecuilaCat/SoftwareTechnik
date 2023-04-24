@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.github.tecuilacat</groupId>
+    <artifactId>software-technik</artifactId>
+    <version>1.0.1</version>
+
+    <name>Softwaretechnik</name>
+    <description>
+        Dieses Repository beinhaltet alle Themen, die in ST behandelt wurden
+    </description>
+    <url>https://github.com/TecuilaCat/SoftwareTechnik</url>
+
+    <contributors>
+        <contributor>
+            <name>Tecuila Cat</name>
+            <email>tecuilacat@gmx.de</email>
+            <organization>com.github.tecuilacat</organization>
+        </contributor>
+    </contributors>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
