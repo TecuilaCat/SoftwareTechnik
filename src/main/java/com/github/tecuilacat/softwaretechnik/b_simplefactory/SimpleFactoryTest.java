@@ -1,6 +1,6 @@
 package com.github.tecuilacat.softwaretechnik.b_simplefactory;
 
-public class SImpleFactoryTest {
+public class SimpleFactoryTest {
 
     public static void main(String[] args) {
         Dokument gutschrift = SimpleFactory.createDokument(DokumentType.GUTSCHRIFT);
