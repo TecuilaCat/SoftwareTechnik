@@ -8,9 +8,12 @@ Das Singleton Pattern wird in realen Programmen zum Beispiel bei JPA, also einer
   
 Als trivialstes Pattern benötigt es auch nur eine Klasse (siehe Package).
 
-## Simple Factory
+## Factory Methode (Erzeugerpattern)
 ![simpleFactory](https://user-images.githubusercontent.com/80221159/234125065-b20fece8-0c2d-4bf8-a3dd-a3e36666420d.png)
 
+
+## Simple Factory
+Eine Methode mit Parameter, die ein generelles Subjekt zurückgibt, intern aber ein konkretes Subjekt erstellt.
 
 ## Abstract Factory
 
