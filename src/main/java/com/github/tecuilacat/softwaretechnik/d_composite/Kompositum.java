@@ -25,10 +25,10 @@ public class Kompositum extends Komponente {
 
 
     @Override
-    public int getValues() {
+    public int calculateValues() {
         int res = super.value;
         for (Komponente child: this.children) {
-            res += child.getValues();
+            res += child.calculateValues();
         }
         return res;
     }

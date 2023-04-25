@@ -7,7 +7,7 @@ public class Blatt extends Komponente {
     }
 
     @Override
-    public int getValues() {
+    public int calculateValues() {
         return super.value;
     }
 }

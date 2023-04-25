@@ -10,7 +10,7 @@ public class Klient {
         parent.addChild(new Blatt(30));
         parent.addChild(new Blatt(40));
 
-        System.out.println(parent.getValues()); //Sollte 200 ergeben, wenn korrekt programmiert
+        System.out.println(parent.calculateValues()); //Sollte 200 ergeben, wenn korrekt programmiert
     }
 
 }

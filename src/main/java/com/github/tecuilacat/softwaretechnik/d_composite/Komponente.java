@@ -16,6 +16,6 @@ public abstract class Komponente {
         return this.value;
     }
 
-    public abstract int getValues();
+    public abstract int calculateValues();
 
 }
