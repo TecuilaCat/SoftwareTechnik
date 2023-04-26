@@ -19,6 +19,9 @@ public class SensorBroker extends Daten {
         warteAufDaten();
     }
 
+    /**
+     * Eigentlich ein Thread, er dann in einer Endlosschleife auf den Wert wartet -> den Wert setzt -> den observer triggert -> wieder auf neue Daten wartet
+     */
     public void warteAufDaten() {
         drehZahl = 100;
         super.visualize();
